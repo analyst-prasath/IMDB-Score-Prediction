@@ -44,7 +44,7 @@ The following dependencies are required to run this project:
 
 ## Resources
 
-- Kaggle dataset: [https://github.com/analyst-prasath/IMDBscoreprediction/blob/main/movie_metadata.csv](link_to_the_dataset)
+- Kaggle dataset: [movie_metadata.csv](link_to_the_dataset)
 - Documentation on scikit-learn: [scikit-learn.org](https://scikit-learn.org/)
 - Documentation on Pandas: [pandas.pydata.org](https://pandas.pydata.org/)
 - Documentation on NumPy: [numpy.org](https://numpy.org/)
